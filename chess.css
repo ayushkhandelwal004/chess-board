@@ -1,0 +1,31 @@
+*{
+    padding: 0;
+    margin: 0;
+   
+    
+}
+
+.white{
+    width: 80px;
+    height: 80px;
+    background-color: white;
+}
+
+.black{
+    width: 80px;
+    height: 80px;
+    background-color: black;
+}
+
+.chess{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.background{
+    width: 100%;
+    height: 100vh;
+    background-color: blue;
+    padding: 50px;
+}
